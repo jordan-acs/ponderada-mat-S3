@@ -37,4 +37,5 @@ print(f'A entropia do sistema de vendas diárias é: {entropia:.4f}')
 ```
 
 Resultado obtido:
-<img src="./resultado.png"/>
+<br>
+<img src="./image.png"/>
